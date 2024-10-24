@@ -1,3 +1,53 @@
 body{
     background-color:hsl(47, 88%, 63%);
 }
+.container{
+    width:60%;
+    max-width:400px;
+    height:65vh;
+    max-height:600px;
+    background-color:white;
+    margin:20vh auto;
+    border-radius:5%;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+    align-content:space-around;
+    padding-bottom:20px;
+}
+#Learning{
+    width:21%;
+    margin-left:5%;
+    margin-right:60%;
+    height:5%;
+    background-color:hsl(47, 88%, 63%);
+    text-align:center;
+}
+svg{
+    width:80%;
+    height:50%;
+    margin:-5% auto;
+}
+p,h2{
+   width:75%;
+   height:4%;
+   margin:12px auto;
+}
+img{
+    width:32px;
+    height:32px;
+    padding-left:2%;
+    margin-top:12%;
+    margin-left:9%;
+}
+p:last-of-type{
+    width:80%;
+    height:auto;
+    margin-top:13%;
+    justify-self:flex-start !important;
+    margin-bottom:18px;
+}
+#content{
+   padding-left:10%;
+   padding-right:10%;
+}
