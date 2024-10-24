@@ -1,1 +1,1 @@
-This is my first simple web page project, creating a preview card for a website. This folder contains all the files supporting this project.
+This is my second simple web page project, creating a preview card for a website. This folder contains all the files supporting this project.
